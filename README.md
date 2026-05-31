@@ -26,5 +26,5 @@ My app has 15 different features to guide new students:
 12. **ESL Support Basics**
 13. **Report Cards & Transcripts**
 14. **Making Friends in U.S. Schools**
-- 15. **Time Management Tips**
+15. **Time Management Tips**
 
